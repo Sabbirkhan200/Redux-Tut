@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar {
+    margin-left: 150px;
+
+
+
+}
+
+.picsize {
+    width: 100px;
+    border-radius: 30px;
+}
+
+.d-flex {
+    margin-left: 300px;
+
+}
+
+.MENTAL {
+    background-color: rgb(212, 195, 42);
+    text-decoration: none;
+    height: 30px;
+    border-radius: 7px;
+}
+
+.coimtainer {
+    width: 840px;
+    height: 500px;
+    margin-left: 150px;
+
+
+}
+
+.card-title {
+    color: wheat;
+    background-color: darkblue;
+    text-align: center;
+    border: 5px solid rgba(17, 233, 9, 0.219);
+    border-radius: 5px;
+}
+
+.text-2 {
+    text-align: center;
+    height: 100px;
+    margin-top: 50px;
+
+}
+
+.card-img-top {
+    height: 250px;
+    border-radius: 10px;
+}
+
+
+
+.phn-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.phn-icn {
+    width: 30px;
+}
+
+.contacts {
+    margin-top: 30px;
+    padding-left: 150px;
+
+}
